@@ -58,7 +58,7 @@
 ###
  
 <h3 align="left"> :fire: My Stats :</h3>
-<div>
+<div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahme10D6&theme=dark)](https://git.io/streak-stats)
   
