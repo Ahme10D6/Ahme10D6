@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm senor Frond-End developer from Egypt,<br><br>- 🔭 I’m currently Senior year student.  <br><br>- 📚 I'm currently learning React.js.</p>
+<p align="left">I'm senior Frond-End developer from Egypt,<br><br>- 🔭 I’m currently Senior year student.  <br><br>- 📚 I'm currently learning React.js.</p>
 
 ###
 
