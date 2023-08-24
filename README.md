@@ -60,9 +60,9 @@
 <h3 align="left"> :fire: My Stats :</h3>
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahme10D6&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahme10D6&background=EB545400&dates=EBEBEB&sideNums=EBEBEB&excludeDaysLabel=EBEBEB&currStreakNum=EBEBEB)](https://git.io/streak-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahme10D6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahme10D6&theme=dark&background=EB545400)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
