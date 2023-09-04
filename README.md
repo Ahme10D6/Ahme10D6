@@ -19,9 +19,9 @@
   </a>
 </div>
 
-###
+##
 
-<h1 align="center">hey there 👋</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=50&color=06F7E6&vCenter=true&width=435&height=50&lines=Hey+there+%F0%9F%91%8B;I'm+Ahmed+Ehab" alt="Typing SVG" /></a>
 
 ###
 
